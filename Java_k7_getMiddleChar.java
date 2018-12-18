@@ -1,3 +1,5 @@
+//Code for: https://www.codewars.com/kata/56747fd5cb988479af000028
+
 class Kata {
   public static String getMiddle(String word) {
     int wordLength = word.length();
