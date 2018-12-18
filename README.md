@@ -14,7 +14,7 @@ The challenges (or Katas) are ranked from 8 Kyu up to 1 Kyu, where 8 is the begi
 ### Blue (Competent)
 - 4 Kyu
 - 3 Kyu
-### Purplee (Proficient)
+### Purple (Proficient)
 - 2 Kyu
 - 1 Kyu
 
