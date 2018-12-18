@@ -1,7 +1,7 @@
-# CodeWars: Completed
+# CodeWars
 This repository contains the instructions, rank, and code to all the Kata's I have completed on CodeWars.
 
-# Key:
+# Key
 For more information, see the official [CodeWars wiki](https://github.com/codewars/codewars.com/wiki)
 ## Kata Ranking
 The challenges (or Katas) are ranked from 8 Kyu up to 1 Kyu, where 8 is the beginners level, and 1 represents proficiency at that language.
@@ -88,3 +88,7 @@ The function should return result of numbers after applying the chosen operation
    Trolls are attacking your comment section! A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
 
    Your task is to write a function that takes a string and return a new string with all vowels removed. For example, the string `"This website is for losers LOL!"` would become `"Ths wbst s fr lsrs LL!"`.
+## 6 Kyu
+- **Multiples of 3 or 5** [(Link)](https://www.codewars.com/kata/514b92a657cdc65150000006)
+
+   If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Finish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in.
